@@ -34,7 +34,12 @@
                    వెదురు బ్లైండ్‌ల యొక్క మా మోడల్‌లలో ఇండోర్ మెషిన్-మేడ్ బ్లైండ్‌లు, అవుట్‌డోర్ హ్యాండ్ మేడ్ బ్లైండ్‌లు మొదలైనవి ఉన్నాయి. 
                    మీ అవసరాలకు అనుగుణంగా మరియు డిజైన్ ఎంపికను ఎంచుకోవడానికి మా వద్ద అనేక రకాల ఉత్పత్తులు ఉన్నాయి, 
                    ఇది బాహ్య మరియు ఇంటీరియర్ డిజైన్‌లో విభిన్న రూపాన్ని సృష్టిస్తుం<a href="https://sbmats.com/" target="home3img.jpeg">ReadMore</a></p>
-                    We are proud to have been in this field since 2000 and executing the works with a wide market network and the best service to our Customers, Dealers, and Distributors. We have a dealers’ network in all corners. We always supply any quantity to meet your requirements as per your schedule. To meet all your desires, we have different models of bamboo blinds with almost hundreds of colours. Our models of bamboo blinds include indoor machine-made blinds, outdoor hand-made blinds, etc. We have a wide range of products to meet your requirements to choose the need and design choice, which creates a different look in exterior and interior design which is unique.<a href="https://sbmats.com/" target="_blank">ReadMore</a></p>
+                    We are proud to have been in this field since 2000 and executing the works with a wide market network and the best service 
+                    to our Customers, Dealers, and Distributors. We have a dealers’ network in all corners. We always supply any quantity to 
+                    meet your requirements as per your schedule. To meet all your desires, we have different models of bamboo blinds with almost 
+                    hundreds of colours. Our models of bamboo blinds include indoor machine-made blinds, outdoor hand-made blinds, etc. We have 
+                    a wide range of products to meet your requirements to choose the need and design choice, which creates a different look in 
+                    exterior and interior design which is unique.<a href="https://sbmats.com/" target="_blank">ReadMore</a></p>
             </div>
             
             <div class="n">
@@ -127,7 +132,7 @@
             </form>
         </div>
         <div id="creator">
-            <a target="_blank"><h3>Creator: K.V.V.SATYANARAYANA</h3></a>
+            <a target="_blank"><h3>Creator: K.V.V.SATYANARAYANA </h3></a>
         </div>
     </section>
 </body>
